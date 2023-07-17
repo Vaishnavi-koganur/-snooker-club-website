@@ -1,0 +1,25 @@
+.h1{
+    padding-left: 40%;
+    text-decoration: underline;
+    color: red;
+}
+
+.h2{
+    padding-right: 40%;
+}
+
+.disp{
+    display:flex;
+    justify-content:45% 45%; 
+}
+.move{
+    padding-left: 32%;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
